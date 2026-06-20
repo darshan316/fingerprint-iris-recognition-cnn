@@ -1,0 +1,20 @@
+{
+  "modality": "fingerprint",
+  "labels": [
+    "SUBJ_00",
+    "SUBJ_01",
+    "SUBJ_02",
+    "SUBJ_03",
+    "SUBJ_04",
+    "SUBJ_05",
+    "SUBJ_06",
+    "SUBJ_07",
+    "SUBJ_08",
+    "SUBJ_09",
+    "SUBJ_10",
+    "SUBJ_11"
+  ],
+  "img_size": 96,
+  "embedding_dim": 128,
+  "val_accuracy": 0.0833
+}

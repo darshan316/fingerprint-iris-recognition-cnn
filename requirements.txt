@@ -1,0 +1,11 @@
+# Core
+tensorflow>=2.12,<2.17
+numpy>=1.23
+Pillow>=9.5
+
+# GUI
+customtkinter>=5.2.0
+
+# The synthetic generator only needs numpy + Pillow; scipy is optional and
+# used for a slightly nicer Gabor convolution when available.
+scipy>=1.10
